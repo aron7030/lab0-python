@@ -4,4 +4,4 @@ print("Hello, " + name + "!")
 age = input("Enter your age: ")
 age = int(age)
 
-j
+print("You will be " + str(age+1) + " next year.")
